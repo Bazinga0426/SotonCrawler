@@ -3,3 +3,8 @@
 {'title': '16 Lessons in Java Madness for Breaking Through to Basic Programmer Skills', 'public time': 'Published at 2017-06-13', 'category': 'Java', 'comment number': '280 comments'}
 {'title': 'Pyspider Framework -- Python crawler for crawling V2EX website posts', 'public time': 'Published at 2017-06-13', 'category': 'Python', 'comment number': '359 comments'}
 {'title': 'Comparison of HashMap, Hashtable, HashSet and ConcurrentHashMap', 'public time': 'Published at 2017-06-13', 'category': 'Java', 'comment number': '360 comments'}
+{'title': 'Study Notes and Summary of Core Techniques of Multithreaded Programming in Java', 'public time': 'Published at 2017-06-13', 'category': 'Java', 'comment number': '0 comments'}
+{'title': 'Comparison of HashMap, Hashtable, HashSet and ConcurrentHashMap', 'public time': 'Published at 2017-06-13', 'category': 'Java', 'comment number': '360 comments'}
+{'title': '16 Lessons in Java Madness for Breaking Through to Basic Programmer Skills', 'public time': 'Published at 2017-06-13', 'category': 'Java', 'comment number': '280 comments'}
+{'title': 'Pyspider Framework -- Python crawler for crawling V2EX website posts', 'public time': 'Published at 2017-06-13', 'category': 'Python', 'comment number': '359 comments'}
+{'title': 'Study Notes and Summary of Core Techniques of Multithreaded Programming in Java', 'public time': 'Published at 2017-06-13', 'category': 'Java', 'comment number': '375 comments'}
