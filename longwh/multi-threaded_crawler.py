@@ -120,6 +120,8 @@ if __name__ == "__main__":
     for blogUrl in blogList:
         blogQueue.put(blogUrl)
 
+    startTime = time.time()
+
     dataQueue = Queue()
 
     file1 = open("data.txt", "a")
@@ -167,6 +169,10 @@ if __name__ == "__main__":
 
     print("dataQueue is empty, parseThreads terminate \n")
 
+    endTime1 = time.time()
+    time1 = endTime1 - startTime
+    print("time for retrieving blog data: " + str(time1) + '\n')
+
     commenterList = ["commenter 1", "commenter 2", "commenter 3", "commenter 4", "commenter 5"]
 
     commentThreadList = []
@@ -187,6 +193,10 @@ if __name__ == "__main__":
         commentThread.join()
 
     print("commentQueue is empty, commentThreads terminate \n")
+
+    endTime2 = time.time()
+    time2 = endTime2 - startTime
+    print("time for retrieving blog comments: " + str(time2) + '\n')
 
     with lock1:
         file1.close()

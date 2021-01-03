@@ -1,0 +1,71 @@
+start crawler 1
+
+start crawler 2
+
+start crawler 3
+
+start crawler 4
+
+start crawler 5
+
+end crawler 5
+
+end crawler 2
+
+end crawler 4
+
+end crawler 3
+
+end crawler 1
+
+blogQueue is empty, crawlThreads terminate
+
+start parser 1
+
+start parser 2
+
+start parser 3
+start parser 4
+
+
+start parser 5
+end parser 4
+
+
+end parser 5
+
+end parser 2
+
+end parser 1
+
+end parser 3
+
+dataQueue is empty, parseThreads terminate
+
+time for retrieving blog data: 0.11583805084228516
+
+start commenter 1
+
+start commenter 2
+
+start commenter 3
+
+start commenter 4
+
+start commenter 5
+
+end commenter 5
+
+end commenter 4
+
+end commenter 2
+
+end commenter 3
+
+end commenter 1
+
+commentQueue is empty, commentThreads terminate
+
+time for retrieving blog comments: 6.196429014205933
+
+##### end of program #####
